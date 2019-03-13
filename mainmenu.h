@@ -1,0 +1,1 @@
+int createMainMenu(Information *info);

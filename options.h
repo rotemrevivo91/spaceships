@@ -1,0 +1,1 @@
+int createOptions(Information *info);
